@@ -1,0 +1,12 @@
+Executing SQL Task – Full Result Set 
+Execute Package Task
+Executing Packages in File System
+Execute Packages in SQL Server
+Executing Packages present in the Same Project
+File System Task
+Copy Directory
+Copy File
+Delete Directory Content
+Move Directory
+Delete Directory
+Move 
